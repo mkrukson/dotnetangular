@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj": {}
+    "D:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj": {
+    "D:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj",
+        "projectUniqueName": "D:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj",
+        "projectPath": "D:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj",
         "packagesPath": "C:\\Users\\mkruk\\.nuget\\packages\\",
-        "outputPath": "d:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\obj\\",
+        "outputPath": "D:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mkruk\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6AhWWjNVN4Bokt0d15Pkdj/wpdE339SQAz8lA2xdgsTh+x42f8oYChXxtVuTO1shA20c+181Um8gYfkOd7b6wg==",
+  "dgSpecHash": "dnkd4/BrwDt+oo2/7v3ussxmzNGoYLFiUbSNtnlcEZqjDxEYBEhnS4g79BKDQb552F8BpgajWVplKQ2XwEWYVg==",
   "success": true,
-  "projectFilePath": "d:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj",
+  "projectFilePath": "D:\\Nauka programowania\\dotnetangular\\dotnetangular\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mkruk\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mkruk\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
